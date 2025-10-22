@@ -10,4 +10,4 @@ This repository was created as part of the **Builders & Founders** verification 
 ## First Commit
 This marks my first public contribution to GitHub!
 
-Update: testing commit verification
+Update: testing commiy verification
